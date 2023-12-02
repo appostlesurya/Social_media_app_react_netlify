@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "title": "My fourth post",
+      "date": "oct 10 2023 01.12.53 PM",
+      "body": "Learning react js"
+    },
+    {
+      "id": 5,
+      "title": "hi",
+      "date": "October 14, 2023 4:26:18 PM",
+      "body": "God please forgive us this mistake will never repeat.."
+    },
+    {
+      "id": 6,
+      "title": "vanakam thoothukudi",
+      "date": "October 30, 2023 4:14:16 PM",
+      "body": "nan ungal surya prakash"
+    },
+    {
+      "id": 7,
+      "title": "Congrats Prakash",
+      "date": "December 02, 2023 5:21:35 PM",
+      "body": "Completed the social media app"
+    }
+  ]
+}
